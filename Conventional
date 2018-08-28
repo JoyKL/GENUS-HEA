@@ -1,0 +1,5 @@
+package genus.massbreakdown;
+import genus.massbreakdown.masscomponent.MassComponent;
+public abstract class MassBreakdown extends genus.GenusModule{
+
+}
